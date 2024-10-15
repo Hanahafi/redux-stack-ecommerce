@@ -26,13 +26,6 @@ A full-stack e-commerce application built with Next.js, React, and SQLite.
 - Place orders
 - View order history
 
-## Tech Stack
-
-- Frontend: Next.js, React, Redux Toolkit, NextUI
-- Backend: Next.js API Routes
-- Database: SQLite
-- Authentication: JSON Web Tokens (JWT)
-
 ## Environment Setup
 
 1. Clone the repository:
