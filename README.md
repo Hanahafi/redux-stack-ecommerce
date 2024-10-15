@@ -53,14 +53,7 @@ A full-stack e-commerce application built with Next.js, React, and SQLite.
    ```
    npm run dev
    ```
-
-2. For production:
-   ```
-   npm run build
-   npm start
-   ```
-
-3. Open your browser and navigate to `http://localhost:3000`
+2. Open your browser and navigate to `http://localhost:3000`
 
 ## Initial Setup
 
