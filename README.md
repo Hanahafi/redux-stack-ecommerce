@@ -37,8 +37,8 @@ A full-stack e-commerce application built with Next.js, React, and SQLite.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ecommerce-platform.git
-   cd ecommerce-platform
+   git clone https://github.com/Hanahafi/redux-stack-ecommerce.git
+   cd redux-stack-ecommerce
    ```
 
 2. Install dependencies:
